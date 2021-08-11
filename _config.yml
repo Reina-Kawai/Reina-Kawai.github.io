@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "EconReinaKawai.github.io"
 title_separator          : "-"
 name                     : &name "Reina Kawai"
-description              : &description "personal description"
+description              : &description "University of Washington"
 url                      : https://Reina-Kawai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Reina-Kawai/Reina-Kawai.github.io"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/reinakawai/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  #orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
