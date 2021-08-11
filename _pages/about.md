@@ -19,7 +19,7 @@ I am on the 2021–2022 job market and am available for interviews during and af
 
 Curriculum Vitae
 ------
-Please find my Curriculum Vitae [here](https://github.com/Reina-Kawai/econreinakawai.github.io/blob/master/files/econ_reina_cv.pdf).
+Please find my Curriculum Vitae [here](https://econreina.github.io/files/econ_reina_cv.pdf).
 
 
 Research Field
