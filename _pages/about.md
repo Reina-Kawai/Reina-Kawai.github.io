@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,7 +19,7 @@ I am on the 2021–2022 job market and am available for interviews during and af
 
 Curriculum Vitae
 ------
-Please find my Curriculum Vitae [here](https://econreina.github.io/files/econ_reina_cv.pdf).
+Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/econ_reina_cv.pdf).
 
 
 Research Field
