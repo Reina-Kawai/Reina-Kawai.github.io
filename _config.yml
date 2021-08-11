@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+wa# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 linkedin:
-  username               : &reinakawai
+  username               : &linkedin
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "replacethislinkedinhandle"
+  linkedin         : "reinakawai"
   #orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
