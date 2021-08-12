@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Reina Kawai"#"EconReinaKawai.github.io"
+title                    : "EconReinaKawai.github.io"
 title_separator          : "-"
 name                     : &name "Reina Kawai"
 description              : &description "University of Washington"
