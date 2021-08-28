@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-Job Market Paper
+<!--Job Market Paper
 ===
-An Assessment of 28 Years of Trade Forecasts: For 602 IMF Programs Countries<!--(https://econreinakawai.github.io/files/MonicaGR_JMP.pdf) [[slides](https://econreinakawai.github.io/files/IMF Nowcasts_slides.pdf)]-->
+An Assessment of 28 Years of Trade Forecasts: For 602 IMF Programs Countries(https://econreinakawai.github.io/files/MonicaGR_JMP.pdf) [[slides](https://econreinakawai.github.io/files/IMF Nowcasts_slides.pdf)]
 (with Theo Eicher)
-> External sector surveillance and stabilization are core missions of the International Monetary Fund. Since 1992, the IMF approved over 600 crises countries’ loan programs that required reforms and performance targets. IMF programs forecast recovery trajectories that predicate program design. A voluminous literature analyzes IMF crises forecasts but focuses only on GDP/Inflation forecasts in small subsamples. IMF programs originate, however, mostly with balance of payments crises, hence we undertake a comprehensive evaluation of the IMF’s import/export/exchange rate forecasts for program countries. Result reveals a surprising dichotomy in the accuracy of IMF external sector forecasts. Import growth is efficiently and unbiasedly forecast, but export growth and exchange rate depreciations exhibit profound biases and inconsistencies that project unrealistic export and exchange rate targets for crisis countries. Results are largely independent of countries’ income levels or forecast horizons, but not of exchange rate regimes. Forecasts under fixed exchange rate regimes are remarkably inefficient for all external sector forecasts. 
+> External sector surveillance and stabilization are core missions of the International Monetary Fund. Since 1992, the IMF approved over 600 crises countries’ loan programs that required reforms and performance targets. IMF programs forecast recovery trajectories that predicate program design. A voluminous literature analyzes IMF crises forecasts but focuses only on GDP/Inflation forecasts in small subsamples. IMF programs originate, however, mostly with balance of payments crises, hence we undertake a comprehensive evaluation of the IMF’s import/export/exchange rate forecasts for program countries. Result reveals a surprising dichotomy in the accuracy of IMF external sector forecasts. Import growth is efficiently and unbiasedly forecast, but export growth and exchange rate depreciations exhibit profound biases and inconsistencies that project unrealistic export and exchange rate targets for crisis countries. Results are largely independent of countries’ income levels or forecast horizons, but not of exchange rate regimes. Forecasts under fixed exchange rate regimes are remarkably inefficient for all external sector forecasts. -->
 
 Working Paper
 ===
