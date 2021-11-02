@@ -14,9 +14,9 @@ An Assessment of 28 Years of Trade Forecasts: For 602 IMF Programs Countries(htt
 
 Working Paper
 ===
-The Macroeconomic Effects of Debt on Real GDP Growth: Revisiting the Impact<!--(https://econmonicagr.github.io/files/NOR_MaPP.pdf)-->
+Public Debt and Real GDP<!--(https://econmonicagr.github.io/files/NOR_MaPP.pdf)-->
 (with Constance de Soyres and Mengxue Wang)
->This paper provides new empirical evidence of the impact of an unanticipated change in public debt on real GDP growth. Using public debt forecast errors, we identify exogenous changes in public debt to assess the impact of a change in the debt to GDP ratio on real GDP growth. By analyzing data on gross public debt for 178 countries over 1995-2020, we find that the impact of an unanticipated increase in public debt on real GDP growth is generally negative and varies depending on other fundamental characteristics such as the initial level of debt, the debt trajectory over preceding years, the income level and participation in the HIPC Initiative.  
+>This paper provides new empirical evidence of the impact of an unanticipated change in public debt on real GDP. Using public debt forecast errors, we identify exogenous changes in public debt to assess the impact of a change in the debt to GDP ratio on real GDP. By analyzing data on gross public debt for 178 countries over 1995-2020, we find that the impact of an unanticipated increase in public debt on real GDP is generally negative and varies depending on other fundamental characteristics such as the initial level of debt, the debt trajectory over preceding years, the income level and participation in the HIPC Initiative.   
  
 <!--Other Policy Paper:
 ===
