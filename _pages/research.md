@@ -8,6 +8,11 @@ author_profile: true
 <img src="https://Reina-Kawai.github.io/images/Website_research_part.jpg" width="800"> <br/>
 Above: Conference in Rome, Italy, 2022
 
+<figure>
+  <img src="(https://Reina-Kawai.github.io/images/Website_research_part.jpg)" width="800"/>
+  <figcaption>Conference in Rome, Italy, 2022</figcaption>
+</figure>
+
 Job Market Paper
 ===
 [IMF Trade Flow Forecasts for Crisis Countries: (In)Accuracies and Their Origins](https://www.sciencedirect.com/science/article/pii/S0169207022001042?dgcid=coauthor) <!--[[slides](https://econreinakawai.github.io/files/IMF Nowcasts_slides.pdf)]-->
