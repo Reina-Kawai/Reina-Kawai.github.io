@@ -15,18 +15,17 @@ I am an applied macroeconomist with interests primarily lie in the field of appl
 
 I am on the job market during the 2022-2023 academic year and am available for interviews. 
 
-References: <br/>
+Curriculum Vitae
+------
+Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/econ_reina_cv.pdf).
+
+
+References
+------
 Professor Theo Eicher (Chair) : [te@uw.edu](mailto:te@uw.edu) <br/>
 Professor Stephen Turnovsky (committee) : [sturn@uw.edu](mailto:sturn@uw.edu) <br/>
 Professor Fabio Ghironi (committee) : [ghiro@uw.edu](mailto:ghiro@uw.edu) <br/>
 Professor Hiro Ito (committee) : [ito@pdx.edu](mailto:ito@pdx.edu)
-
-
-
-
-Curriculum Vitae
-------
-Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/econ_reina_cv.pdf).
 
 
 Research Field
