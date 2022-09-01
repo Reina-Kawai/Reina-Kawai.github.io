@@ -18,7 +18,7 @@ Job Market Paper
 Other Publications
 ===
 
-[Public Debt and Real GDP](https://www.imf.org/en/Publications/WP/Issues/2022/04/29/Public-Debt-and-Real-GDP-Revisiting-the-Impact-517449)
+[Public Debt and Real GDP: Revisiting the Impact](https://www.imf.org/en/Publications/WP/Issues/2022/04/29/Public-Debt-and-Real-GDP-Revisiting-the-Impact-517449)
 (with Constance de Soyres and Mengxue Wang)
 > This paper provides new empirical evidence of the impact of an unanticipated change in public debt on real GDP. Using public debt forecast errors, we identify exogenous changes in public debt to assess the impact of a change in the debt to GDP ratio on real GDP. By analyzing data on gross public debt for 178 countries over 1995-2020, we find that the impact of an unanticipated increase in public debt on the real GDP level is generally negative and varies depending on other fundamental characteristics. Specifically, an unanticipated increase in the public debt to GDP ratio hurts real GDP level for countries that have (i) a high initial debt level or (ii) a rising debt trajectory over the five preceding years. On the contrary, an unanticipated increase in public debt boosts real GDP for countries that have (iii) a low-income level or (iv) completed the HIPC debt relief initiative. 
  
