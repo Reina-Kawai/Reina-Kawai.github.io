@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <img src="https://Reina-Kawai.github.io/images/Website_research_part.jpg" width="800"> <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Conference in Rome, Italy, 2022
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Conference in Rome, Italy, 2022
 
 
 Job Market Paper
@@ -38,10 +38,10 @@ Work in Progress Paper
 * [International Reserve and Cryptocurrencies: Is There Hedging Effect?](https://github.com/Reina-Kawai/Reina-Kawai.github.io/blob/main/files/Crypto_Research_v1.pdf) (single author)
 
 
-Publication as Research Assitant:
+Publication as Research Assitant
 ===
 
-[The accuracy of IMF crises nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132)
+* [The accuracy of IMF crises nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132)
 (by Theo Eicher and Monica Gao Rollinson)
  
  
