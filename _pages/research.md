@@ -10,7 +10,7 @@ Above: Conference in Rome, Italy, 2022
 
 Job Market Paper
 ===
-[IMF Trade Flow Forecasts for Crisis Countries}: (In)Accuracies and Their Origins](https://www.sciencedirect.com/science/article/pii/S0169207022001042?dgcid=coauthor) <!--[[slides](https://econreinakawai.github.io/files/IMF Nowcasts_slides.pdf)]-->
+[IMF Trade Flow Forecasts for Crisis Countries: (In)Accuracies and Their Origins](https://www.sciencedirect.com/science/article/pii/S0169207022001042?dgcid=coauthor) <!--[[slides](https://econreinakawai.github.io/files/IMF Nowcasts_slides.pdf)]-->
 (with Theo Eicher)
 > External sector surveillance and stabilization are core missions of the International Monetary Fund (IMF). Since 1992, the IMF approved over 600 crisis country loan programs, conditional on reforms and performance targets that are contingent on IMF crisis assessments and recovery forecasts. The literature evaluating IMF crisis forecasts has primarily focused on GDP, inflation, and fiscal budgets, but IMF programs often originate with balance of payments crises. Our evaluation of IMF imports/exports/exchange rates in crisis countries reveals a surprising dichotomy: import forecasts are largely efficient and unbiased, while exports and exchange rate forecasts exhibit substantial biases and inefficiencies. We show forecast errors in the full sample are driven by deeply flawed IMF forecasts for LICs in crisis. Fixed exchange rate LICs (predominantly African franc zone countries) receive systematically inefficient import forecasts. Exchange rate forecasts for LICs with flexible exchange rates are so inefficient, they cannot outperform a naive random walk, and over 30 percent of the forecasts cannot match the exchange rate’s directional movement during the first year of the recovery. Examining the sources of biases and inefficiencies, we highlight effects of conditionality and geopolitics that were not fully accounted for in IMF forecasts, specifically those relating to arrears (domestic and foreign), fiscal finance (balance and credit limits), policy reforms (trade and government), (civil) wars, and elections.
 
@@ -26,7 +26,7 @@ Working Papers
 ===
 
 [Usage of Government Revenues and Growth: Empirical and Theoretical Standpoint](https://github.com/Reina-Kawai/Reina-Kawai.github.io/blob/main/files/Chapter3_Turnovsky_Project_0828.pdf)
-(with with Stephen Turnovsky)
+(with Stephen Turnovsky)
 > Existing results show that fiscal spending negatively impacts growth in general. However, evidence and reasons as to how the usage of fiscal revenue (additional government borrowings or tax) affects growth are limited since it is exceedingly difficult to identify based on existing models. To address this issue in a general framework, we construct an endogenous growth model based on Bruce and Turnovsky (1999). Analyzing the resulting empirical nuances by applying Bayesian Model Averaging, our stylized results for 180 countries from 1990-2019 reveal that public debt and tax generally hurt growth. On the contrary, infrastructure investment will positively impact economic growth regardless of fiscal origin (i.e., public debt, tax). The estimated response was strictly negated by government consumption expenditure. Our findings suggest that as a policy implication, when governments face a trade-off in supporting current consumption or boosting infrastructure investment, they are encouraged to spend more for the latter since it is forecasted to provide robust increases in economic growth.
 
 
@@ -37,7 +37,7 @@ Work in Progress Paper
 * [International Reserve and Cryptocurrencies: Is There Hedging Effect?](https://github.com/Reina-Kawai/Reina-Kawai.github.io/blob/main/files/Crypto_Research_v1.pdf) (single author)
 
 
-As Research Assistant
+Publication as RA
 ===
 
 [The accuracy of IMF crises nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132)
