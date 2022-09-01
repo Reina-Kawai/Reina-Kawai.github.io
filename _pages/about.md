@@ -15,17 +15,10 @@ I am an applied macroeconomist with interests primarily lie in the field of appl
 
 I am on the job market during the 2022-2023 academic year and am available for interviews. 
 
-References:
-
-Professor Theo Eicher (Chair) : te@uw.edu
-
-
-Professor Stephen Turnovsky (committee) : sturn@uw.edu
-
-
-Professor Fabio Ghironi (committee) : ghiro@uw.edu
-
-
+References: <br/>
+Professor Theo Eicher (Chair) : te@uw.edu <br/>
+Professor Stephen Turnovsky (committee) : sturn@uw.edu <br/>
+Professor Fabio Ghironi (committee) : ghiro@uw.edu <br/>
 Professor Hiro Ito (committee) : ito@pdx.edu
 
 
