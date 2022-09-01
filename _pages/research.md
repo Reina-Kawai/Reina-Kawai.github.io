@@ -37,7 +37,7 @@ Work in Progress Paper
 * [International Reserve and Cryptocurrencies: Is There Hedging Effect?](https://github.com/Reina-Kawai/Reina-Kawai.github.io/blob/main/files/Crypto_Research_v1.pdf) (single author)
 
 
-Publication as RA
+Publication as Research Assitant:
 ===
 
 [The accuracy of IMF crises nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132)
