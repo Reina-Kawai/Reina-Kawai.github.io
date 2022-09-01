@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Instructor  
-  * ECON 201 (Principles of Macroeconomics)   *Aut2021, Winter2022)*  
+  * ECON 201 (Principles of Macroeconomics)   *Aut2021, Winter2022*  
 
 ## Teach Assistant
   * ECON 201 (Introductory Macroeconomics)   *Win2019, Spr2019, Spr2022* 
