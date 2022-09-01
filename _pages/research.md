@@ -5,18 +5,38 @@ permalink: /research/
 author_profile: true
 ---
 
+<img src="https://Reina-Kawai.github.io/images/fam-dinner.jpg" width="350">
+Above: Conference in Rome, Italy, 2022
 
-<!--Job Market Paper
+--Job Market Paper
 ===
-An Assessment of 28 Years of Trade Forecasts: For 602 IMF Programs Countries(https://econreinakawai.github.io/files/MonicaGR_JMP.pdf) [[slides](https://econreinakawai.github.io/files/IMF Nowcasts_slides.pdf)]
+IMF Trade Flow Forecasts for Crisis Countries}: (In)Accuracies and Their Origins (https://www.sciencedirect.com/science/article/pii/S0169207022001042?dgcid=coauthor)) <!--[[slides](https://econreinakawai.github.io/files/IMF Nowcasts_slides.pdf)]-->
 (with Theo Eicher)
-> External sector surveillance and stabilization are core missions of the International Monetary Fund. Since 1992, the IMF approved over 600 crises countries’ loan programs that required reforms and performance targets. IMF programs forecast recovery trajectories that predicate program design. A voluminous literature analyzes IMF crises forecasts but focuses only on GDP/Inflation forecasts in small subsamples. IMF programs originate, however, mostly with balance of payments crises, hence we undertake a comprehensive evaluation of the IMF’s import/export/exchange rate forecasts for program countries. Result reveals a surprising dichotomy in the accuracy of IMF external sector forecasts. Import growth is efficiently and unbiasedly forecast, but export growth and exchange rate depreciations exhibit profound biases and inconsistencies that project unrealistic export and exchange rate targets for crisis countries. Results are largely independent of countries’ income levels or forecast horizons, but not of exchange rate regimes. Forecasts under fixed exchange rate regimes are remarkably inefficient for all external sector forecasts. -->
+> External sector surveillance and stabilization are core missions of the International Monetary Fund (IMF). Since 1992, the IMF approved over 600 crisis country loan programs, conditional on reforms and performance targets that are contingent on IMF crisis assessments and recovery forecasts. The literature evaluating IMF crisis forecasts has primarily focused on GDP, inflation, and fiscal budgets, but IMF programs often originate with balance of payments crises. Our evaluation of IMF imports/exports/exchange rates in crisis countries reveals a surprising dichotomy: import forecasts are largely efficient and unbiased, while exports and exchange rate forecasts exhibit substantial biases and inefficiencies. We show forecast errors in the full sample are driven by deeply flawed IMF forecasts for LICs in crisis. Fixed exchange rate LICs (predominantly African franc zone countries) receive systematically inefficient import forecasts. Exchange rate forecasts for LICs with flexible exchange rates are so inefficient, they cannot outperform a naive random walk, and over 30 percent of the forecasts cannot match the exchange rate’s directional movement during the first year of the recovery. Examining the sources of biases and inefficiencies, we highlight effects of conditionality and geopolitics that were not fully accounted for in IMF forecasts, specifically those relating to arrears (domestic and foreign), fiscal finance (balance and credit limits), policy reforms (trade and government), (civil) wars, and elections.
 
-Working Paper
+
+Other Publications
 ===
-Public Debt and Real GDP<!--(https://econmonicagr.github.io/files/NOR_MaPP.pdf)-->
+
+Public Debt and Real GDP (https://www.imf.org/en/Publications/WP/Issues/2022/04/29/Public-Debt-and-Real-GDP-Revisiting-the-Impact-517449))
 (with Constance de Soyres and Mengxue Wang)
->This paper provides new empirical evidence of the impact of an unanticipated change in public debt on real GDP. Using public debt forecast errors, we identify exogenous changes in public debt to assess the impact of a change in the debt to GDP ratio on real GDP. By analyzing data on gross public debt for 178 countries over 1995-2020, we find that the impact of an unanticipated increase in public debt on real GDP is generally negative and varies depending on other fundamental characteristics such as the initial level of debt, the debt trajectory over preceding years, the income level and participation in the HIPC Initiative.   
+> This paper provides new empirical evidence of the impact of an unanticipated change in public debt on real GDP. Using public debt forecast errors, we identify exogenous changes in public debt to assess the impact of a change in the debt to GDP ratio on real GDP. By analyzing data on gross public debt for 178 countries over 1995-2020, we find that the impact of an unanticipated increase in public debt on the real GDP level is generally negative and varies depending on other fundamental characteristics. Specifically, an unanticipated increase in the public debt to GDP ratio hurts real GDP level for countries that have (i) a high initial debt level or (ii) a rising debt trajectory over the five preceding years. On the contrary, an unanticipated increase in public debt boosts real GDP for countries that have (iii) a low-income level or (iv) completed the HIPC debt relief initiative. 
+ 
+Working Papers
+===
+
+Public Debt and Real GDP ([https://github.com/Reina-Kawai/Reina-Kawai.github.io/blob/main/files/Chapter3_Turnovsky_Project_0828.pdf])
+(with with Stephen Turnovsky)
+> Existing results show that fiscal spending negatively impacts growth in general. However, evidence and reasons as to how the usage of fiscal revenue (additional government borrowings or tax) affects growth are limited since it is exceedingly difficult to identify based on existing models. To address this issue in a general framework, we construct an endogenous growth model based on Bruce and Turnovsky (1999). Analyzing the resulting empirical nuances by applying Bayesian Model Averaging, our stylized results for 180 countries from 1990-2019 reveal that public debt and tax generally hurt growth. On the contrary, infrastructure investment will positively impact economic growth regardless of fiscal origin (i.e., public debt, tax). The estimated response was strictly negated by government consumption expenditure. Our findings suggest that as a policy implication, when governments face a trade-off in supporting current consumption or boosting infrastructure investment, they are encouraged to spend more for the latter since it is forecasted to provide robust increases in economic growth.
+
+--Work in Progress Paper
+===
+* Accuracy of Reserve Forecasts and Validity of Its Insurance under Crisis (with Theo Eicher)*
+
+* International Reserve and Cryptocurrencies: Is There Hedging Effect? ([https://github.com/Reina-Kawai/Reina-Kawai.github.io/blob/main/files/Crypto_Research_v1.pdf]) (single author)*
+
+
+ 
  
 <!--Other Policy Paper:
 ===
