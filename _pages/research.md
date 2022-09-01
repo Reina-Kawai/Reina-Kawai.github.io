@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="https://Reina-Kawai.github.io/images/Website_research_part.jpg" width="800"> <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Conference in Rome, Italy, 2022
+<img src="https://Reina-Kawai.github.io/images/Website_research_part.jpg" width="600"> <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Conference in Rome, Italy, 2022
 
 
 Job Market Paper
