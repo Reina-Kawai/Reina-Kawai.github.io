@@ -17,8 +17,14 @@ I am on the job market during the 2022-2023 academic year and am available for i
 
 References:
 Professor Theo Eicher (Chair) : te@uw.edu
+
+
 Professor Stephen Turnovsky (committee) : sturn@uw.edu
+
+
 Professor Fabio Ghironi (committee) : ghiro@uw.edu
+
+
 Professor Hiro Ito (committee) : ito@pdx.edu
 
 
