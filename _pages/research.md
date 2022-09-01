@@ -6,12 +6,8 @@ author_profile: true
 ---
 
 <img src="https://Reina-Kawai.github.io/images/Website_research_part.jpg" width="800"> <br/>
-Above: Conference in Rome, Italy, 2022
+&emsp; Conference in Rome, Italy, 2022
 
-<figure>
-  <img src="https://Reina-Kawai.github.io/images/Website_research_part.jpg" width="800"/>
-  <figcaption>Conference in Rome, Italy, 2022</figcaption>
-</figure>
 
 Job Market Paper
 ===
