@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <img src="https://Reina-Kawai.github.io/images/Website_research_part.jpg" width="800"> <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Conference in Rome, Italy, 2022
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Conference in Rome, Italy, 2022
 
 
 Job Market Paper
@@ -35,7 +35,7 @@ Work in Progress Paper
 ===
 * Accuracy of Reserve Forecasts and Validity of Its Insurance under Crisis (with Theo Eicher)
 
-* [International Reserve and Cryptocurrencies: Is There Hedging Effect?](https://github.com/Reina-Kawai/Reina-Kawai.github.io/blob/main/files/Crypto_Research_v1.pdf) (single author)
+* [International Reserve and Cryptocurrencies: Is There Hedging Effect?](https://github.com/Reina-Kawai/Reina-Kawai.github.io/raw/main/files/Crypto_Research_v1.pdf) (single author)
 
 
 Publication as Research Assitant
