@@ -11,9 +11,16 @@ redirect_from:
 Welcome! 
 ======
 I am a Ph.D. candidate in Economics at the University of Washington.
-I am an applied macroeconomist with a research portfolio comprised of papers in applied econometrics, macroeconomics, forecasting, and growth. My passion is to develop policy implications through a theory-based empirical approach. 
+I am an applied macroeconomist with interests primarily lie in the field of applied econometrics, macroeconomics, forecasting, and growth. My passion is to develop policy implications through a theory-based empirical approach. 
 
 I am on the job market during the 2022-2023 academic year and am available for interviews. 
+
+References:
+Professor Theo Eicher (Chair) : te@uw.edu
+Professor Stephen Turnovsky (committee) : sturn@uw.edu
+Professor Fabio Ghironi (committee) : ghiro@uw.edu
+Professor Hiro Ito (committee) : ito@pdx.edu
+
 
 
 
