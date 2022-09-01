@@ -12,7 +12,8 @@ author_profile: true
 Job Market Paper
 ===
 [IMF Trade Flow Forecasts for Crisis Countries: (In)Accuracies and Their Origins](https://www.sciencedirect.com/science/article/pii/S0169207022001042?dgcid=coauthor) <!--[[slides](https://econreinakawai.github.io/files/IMF Nowcasts_slides.pdf)]-->
-(with Theo Eicher)
+(with Theo Eicher) <br/>
+**_Published in Journal of Forecasting_**
 > External sector surveillance and stabilization are core missions of the International Monetary Fund (IMF). Since 1992, the IMF approved over 600 crisis country loan programs, conditional on reforms and performance targets that are contingent on IMF crisis assessments and recovery forecasts. The literature evaluating IMF crisis forecasts has primarily focused on GDP, inflation, and fiscal budgets, but IMF programs often originate with balance of payments crises. Our evaluation of IMF imports/exports/exchange rates in crisis countries reveals a surprising dichotomy: import forecasts are largely efficient and unbiased, while exports and exchange rate forecasts exhibit substantial biases and inefficiencies. We show forecast errors in the full sample are driven by deeply flawed IMF forecasts for LICs in crisis. Fixed exchange rate LICs (predominantly African franc zone countries) receive systematically inefficient import forecasts. Exchange rate forecasts for LICs with flexible exchange rates are so inefficient, they cannot outperform a naive random walk, and over 30 percent of the forecasts cannot match the exchange rate’s directional movement during the first year of the recovery. Examining the sources of biases and inefficiencies, we highlight effects of conditionality and geopolitics that were not fully accounted for in IMF forecasts, specifically those relating to arrears (domestic and foreign), fiscal finance (balance and credit limits), policy reforms (trade and government), (civil) wars, and elections.
 
 
@@ -20,7 +21,8 @@ Other Publications
 ===
 
 [Public Debt and Real GDP: Revisiting the Impact](https://www.imf.org/en/Publications/WP/Issues/2022/04/29/Public-Debt-and-Real-GDP-Revisiting-the-Impact-517449)
-(with Constance de Soyres and Mengxue Wang)
+(with Constance de Soyres and Mengxue Wang)<br/>
+**_IMF WP Number: 2022/076_**
 > This paper provides new empirical evidence of the impact of an unanticipated change in public debt on real GDP. Using public debt forecast errors, we identify exogenous changes in public debt to assess the impact of a change in the debt to GDP ratio on real GDP. By analyzing data on gross public debt for 178 countries over 1995-2020, we find that the impact of an unanticipated increase in public debt on the real GDP level is generally negative and varies depending on other fundamental characteristics. Specifically, an unanticipated increase in the public debt to GDP ratio hurts real GDP level for countries that have (i) a high initial debt level or (ii) a rising debt trajectory over the five preceding years. On the contrary, an unanticipated increase in public debt boosts real GDP for countries that have (iii) a low-income level or (iv) completed the HIPC debt relief initiative. 
  
 Working Papers
@@ -35,7 +37,7 @@ Work in Progress Paper
 ===
 * Accuracy of Reserve Forecasts and Validity of Its Insurance under Crisis (with Theo Eicher)
 
-* [International Reserve and Cryptocurrencies: Is There Hedging Effect?](https://github.com/Reina-Kawai/Reina-Kawai.github.io/raw/main/files/Crypto_Research_v1.pdf) (single author)
+* [International Reserve and Cryptocurrencies: Is There Hedging Effect?](https://github.com/Reina-Kawai/Reina-Kawai.github.io/blob/main/files/Crypto_Research_Draft.pdf) (single author)
 
 
 Publication as Research Assitant
