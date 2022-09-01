@@ -16,6 +16,7 @@ I am an applied macroeconomist with interests primarily lie in the field of appl
 I am on the job market during the 2022-2023 academic year and am available for interviews. 
 
 References:
+
 Professor Theo Eicher (Chair) : te@uw.edu
 
 
