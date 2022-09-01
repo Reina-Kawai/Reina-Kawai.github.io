@@ -31,7 +31,8 @@ Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/econ_
 
 Research Field
 ------
-* International Macroeconomics
-* Development
 * Applied Econometrics
+* Macroeconomics
+* Forecasting
+* Growth
   
