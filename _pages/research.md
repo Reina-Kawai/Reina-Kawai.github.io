@@ -44,8 +44,8 @@ Publication as Research Assitant
 ===
 
 * [The accuracy of IMF crises nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132)
-(by Theo Eicher and Monica Gao Rollinson)
- 
+(by Theo Eicher and Monica Gao Rollinson)<br>/
+ **_Published in Journal of Forecasting_**
  
 <!--Other Policy Paper:
 ===
