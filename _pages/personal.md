@@ -15,5 +15,5 @@ I enjoy travel, scuba diving and playing basketball (former captain).
 
 <p float="left">
 <img src="https://Reina-Kawai.github.io/images/fam-scuba-diving.jpg" width="220" />
-<img src="https://Reina-Kawai.github.io/images/personal_grand_canyon.jpg" width="260" />
+<img src="https://Reina-Kawai.github.io/images/personal_grand_canyon.jpg" width="263" />
 </p>
