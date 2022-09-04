@@ -28,7 +28,7 @@ Other Publications
 Working Papers
 ===
 
-[Usage of Government Revenues and Growth: Empirical and Theoretical Standpoint](https://github.com/Reina-Kawai/Reina-Kawai.github.io/raw/main/files/Chapter3_Turnovsky_Project_0828.pdf)
+[Usage of Government Revenues and Growth: Empirical and Theoretical Standpoint](https://Reina-Kawai.github.io/files/Chapter3_Turnovsky_Project_0828.pdf)
 (with Stephen Turnovsky)
 > Existing results show that fiscal spending negatively impacts growth in general. However, evidence and reasons as to how the usage of fiscal revenue (additional government borrowings or tax) affects growth are limited since it is exceedingly difficult to identify based on existing models. To address this issue in a general framework, we construct an endogenous growth model based on Bruce and Turnovsky (1999). Analyzing the resulting empirical nuances by applying Bayesian Model Averaging, our stylized results for 180 countries from 1990-2019 reveal that public debt and tax generally hurt growth. On the contrary, infrastructure investment will positively impact economic growth regardless of fiscal origin (i.e., public debt, tax). The estimated response was strictly negated by government consumption expenditure. Our findings suggest that as a policy implication, when governments face a trade-off in supporting current consumption or boosting infrastructure investment, they are encouraged to spend more for the latter since it is forecasted to provide robust increases in economic growth.
 
