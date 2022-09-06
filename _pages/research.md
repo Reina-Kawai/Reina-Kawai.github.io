@@ -37,7 +37,7 @@ Work in Progress Paper
 ===
 * Accuracy of Reserve Forecasts and Validity of Its Insurance under Crisis (with Theo Eicher)
 
-* [International Reserve and Cryptocurrencies: Is There Hedging Effect?](https://Reina-Kawai.github.io/files/Crypto_Research.pdf) (single author)
+* [International Reserve and Cryptocurrencies: Is There Hedging Effect?](https://Reina-Kawai.github.io/files/Crypto_Research_Draft.pdf) (single author)
 <!--(<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>)
 https://econmonicagr.github.io/files/NOR_MaPP.pdf 
 https://github.com/econmonicagr/econmonicagr.github.io/tree/master/files
