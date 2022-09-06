@@ -17,7 +17,7 @@ I am on the job market during the 2022-2023 academic year and am available for i
 
 Curriculum Vitae
 ------
-Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/econ_reina_cv.pdf).
+Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/cv_Kawai_Reina_latest_Sept.pdf).
 
 
 References
