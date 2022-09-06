@@ -14,6 +14,6 @@ My older sister's wedding in Gdynia, Poland with my family and brother-in-law. :
 I enjoy travel, scuba diving and playing basketball (former captain).
 
 <p float="left">
-<img src="https://Reina-Kawai.github.io/images/fam-scuba-diving.jpg" width="423" />
-<img src="https://Reina-Kawai.github.io/images/personal_grand_canyon.jpg" width="507" />
+<img src="https://Reina-Kawai.github.io/images/fam-scuba-diving.jpg" width="325" />
+<img src="https://Reina-Kawai.github.io/images/personal_grand_canyon.jpg" width="350" />
 </p>
