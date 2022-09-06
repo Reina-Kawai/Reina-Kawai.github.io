@@ -30,8 +30,8 @@ Professor Hiro Ito (committee) : [ito@pdx.edu](mailto:ito@pdx.edu)
 
 Research Field
 ------
+* Applied Macroeconomics
 * Applied Econometrics
-* Macroeconomics
 * Forecasting
 * Growth
   
