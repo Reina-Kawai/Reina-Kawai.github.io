@@ -11,7 +11,7 @@ redirect_from:
 Welcome! 
 ======
 I am a Ph.D. candidate in Economics at the University of Washington.
-I am an applied macroeconomist with interests primarily in the fields of applied macroeconomics, applied econometrics, forecasting, and growth. 
+I am an applied macroeconomist with interests primarily in the fields of applied macroeconomics, applied econometrics, forecasting, and growth. My passion is to develop policy implications through a theory-based empirical approach.
 
 I am on the job market during the 2022-2023 academic year and am available for interviews. 
 
