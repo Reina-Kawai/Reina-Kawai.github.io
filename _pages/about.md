@@ -11,7 +11,7 @@ redirect_from:
 Welcome! 
 ======
 I am a Ph.D. candidate in Economics at the University of Washington.
-I am a theoretical macroeconomist with interests in the field of wealth inequality, housing and heterogenous agent DSGEs, monetary policy and applied econometrics. My research aims to develop structural models motivated by empirics which have practical monetary & fiscal policy implications. 
+I am a theoretical macroeconomist with interests in wealth inequality, housing and heterogenous agent DSGEs, monetary policy and applied econometrics. My research aims to develop structural models motivated by empirics which have practical monetary & fiscal policy implications. 
 
 Curriculum Vitae
 ------
