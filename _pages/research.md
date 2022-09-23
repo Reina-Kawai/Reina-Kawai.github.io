@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+<!--
 <img src="https://Reina-Kawai.github.io/images/Website_research_part.jpg" width="600"> <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Conference in Rome, Italy, 2022
 
@@ -49,7 +49,7 @@ Publication as Research Assitant
 
 * [The accuracy of IMF crises nowcasts](https://www.sciencedirect.com/science/article/pii/S0169207021002132)
 (by Theo Eicher and Monica Gao Rollinson)<br/>
- **_Published in International Journal of Forecasting_**
+ **_Published in International Journal of Forecasting_** -->
  
 <!--Other Policy Paper:
 ===
