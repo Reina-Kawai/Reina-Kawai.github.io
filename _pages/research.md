@@ -43,7 +43,7 @@ https://econmonicagr.github.io/files/NOR_MaPP.pdf
 https://github.com/econmonicagr/econmonicagr.github.io/tree/master/files
 https://github.com/Reina-Kawai/Reina-Kawai.github.io/blob/main/files/Crypto_Research_Draft.pdf -->
 
-
+<!--
 Publication as Research Assitant
 ===
 
