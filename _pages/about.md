@@ -15,7 +15,7 @@ I am a theoretical macroeconomist with interests in wealth inequality, housing a
 
 Curriculum Vitae
 ------
-Please find my Curriculum Vitae [here](https://github.com/rdatta2-code.github.io/files/CV_Rajarshi_Datta.pdf).
+Please find my Curriculum Vitae [here](https://rdatta2-code.github.io/files/CV_Rajarshi_Datta.pdf).
 
 
 References
