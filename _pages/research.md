@@ -9,36 +9,10 @@ Working Papers
 ===
 
 [Heterogeneous Asset Returns and Monetary Policy Redistribution](https://rdatta2-code.github.io/files/)
-> The paper shows that the elasticity of aggregate consumption from a one percent de-
-cline in the real interest rate is significantly underestimated in the absence of returns
-heterogeneity through the redistribution channel in the short run. My mechanism op-
-erates via the differential impact of a monetary policy shock for equity & housing with
-its consequent implications for heterogeneous MPCs across the wealth distribution.
-Greater the gap between returns across assets, larger is the aggregate consumption
-response. I develop a flexible model free sufficient statistics approach that can handle
-the conditional impact of monetary policy. Relative to Auclert (2019), aggregate con-
-sumption in general equilibrium is 15% higher with a 43% share of redistribution. It
-is 74% higher in comparison to a RANK model with separate returns to housing and
-equity. Second, direct effects rise by nearly 63% and strengthens on shortening asset
-maturities. Third, consumption declines 12% less under contractionary policy. The
-model predicts consumption to increase by 30% (53%) if all mortgages were ARMs
-with baseline (quarterly) maturity in 2019. In 2007, a lower wealth inequality would
-predict an even larger response. Household portfolio heterogeneity affects overall mon-
-etary transmission more than previously estimated, even for the short run.
+> The paper shows that the elasticity of aggregate consumption from a one percent decline in the real interest rate is significantly underestimated in the absence of returns heterogeneity through the redistribution channel in the short run. My mechanism operates via the differential impact of a monetary policy shock for equity & housing with its consequent implications for heterogeneous MPCs across the wealth distribution. Greater the gap between returns across assets, larger is the aggregate consumption response. I develop a flexible model free sufficient statistics approach that can handle the conditional impact of monetary policy. Relative to Auclert (2019), aggregate consumption in general equilibrium is 15% higher with a 43% share of redistribution. It is 74% higher in comparison to a RANK model with separate returns to housing and equity. Second, direct effects rise by nearly 63% and strengthens on shortening asset maturities. Third, consumption declines 12% less under contractionary policy. The model predicts consumption to increase by 30% (53%) if all mortgages were ARMs with baseline (quarterly) maturity in 2019. In 2007, a lower wealth inequality would predict an even larger response. Household portfolio heterogeneity affects overall monetary transmission more than previously estimated, even for the short run.
 
 [Choice of Refinancing & Hand-to-mouth Status](https://rdatta2-code.github.io/files/)
-> What does the choice of refinancing reveal about the Hand-to-mouth (HtM) status of
-households? Preliminary empirical analysis from the SCF corroborates the interlink-
-age between household debt & HtM status. Further evidence from refinance approvals
-indicate strong demand for home equity extraction in periods of high unemployment
-often aided by higher house prices. Following Kaplan, Violante and Weidner (2014), I
-motivate their measurement by setting up a 3 period partial equilibrium model with
-heterogeneous preferences to investigate the importance of considering mortgages dis-
-tinctly from other illiquid assets in the determination of HtM status. Better estimates
-of the same is imperative for understanding the transmission and redistributive effects
-of monetary policy & fiscal transfers. Simple qualitative experiments in a calibrated
-model strongly match the current trends in house prices, unemployment and mortgage
-refinancing.
+> What does the choice of refinancing reveal about the Hand-to-mouth (HtM) status of households? Preliminary empirical analysis from the SCF corroborates the interlinkage between household debt & HtM status. Further evidence from refinance approvals indicate strong demand for home equity extraction in periods of high unemployment often aided by higher house prices. Following Kaplan, Violante and Weidner (2014), I motivate their measurement by setting up a 3 period partial equilibrium model with heterogeneous preferences to investigate the importance of considering mortgages distinctly from other illiquid assets in the determination of HtM status. Better estimates of the same is imperative for understanding the transmission and redistributive effects of monetary policy & fiscal transfers. Simple qualitative experiments in a calibrated model strongly match the current trends in house prices, unemployment and mortgage refinancing.
 
 <!--
 <img src="https://Reina-Kawai.github.io/images/Website_research_part.jpg" width="600"> <br/>
