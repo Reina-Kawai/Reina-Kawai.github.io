@@ -17,21 +17,20 @@ I am on the job market during the 2022-2023 academic year and am available for i
 
 Curriculum Vitae
 ------
-Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/econ_reina_cv.pdf).
+ # Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/econ_reina_cv.pdf).
 
 
 References
 ------
-Professor Theo Eicher (Chair) : [te@uw.edu](mailto:te@uw.edu) <br/>
+Professor Yu-chin Chen (Chair) : [yuchin@uw.edu](mailto:yuchin@uw.edu) <br/>
+Professor Brian Greaney (Chair) : [bg385@uw.edu](mailto:bg385@uw.edu) <br/>
+Professor Fabio Ghironi (committee) : [ghiro@uw.edu](mailto:ghiro@uw.edu) <br/
 Professor Stephen Turnovsky (committee) : [sturn@uw.edu](mailto:sturn@uw.edu) <br/>
-Professor Fabio Ghironi (committee) : [ghiro@uw.edu](mailto:ghiro@uw.edu) <br/>
-Professor Hiro Ito (committee) : [ito@pdx.edu](mailto:ito@pdx.edu)
-
 
 Research Field
 ------
-* Applied Econometrics
+* Housing & Business Cycles
 * Macroeconomics
-* Forecasting
-* Growth
+* Applied Econometrics
+
   
