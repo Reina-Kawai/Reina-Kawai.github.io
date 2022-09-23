@@ -11,13 +11,11 @@ redirect_from:
 Welcome! 
 ======
 I am a Ph.D. candidate in Economics at the University of Washington.
-I am an applied macroeconomist with interests primarily lie in the field of applied econometrics, macroeconomics, forecasting, and growth. My passion is to develop policy implications through a theory-based empirical approach. 
-
-I am on the job market during the 2022-2023 academic year and am available for interviews. 
+I am a theoretical macroeconomist with interests in the field of wealth inequality, housing and heterogenous agent DSGEs, monetary policy and applied econometrics. My research aims to develop structural models motivated by empirics which have practical monetary & fiscal policy implications. 
 
 Curriculum Vitae
 ------
- # Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/econ_reina_cv.pdf).
+Please find my Curriculum Vitae [here](https://Rajarshi-Datta.github.io/files/econ_raj_cv.pdf).
 
 
 References
@@ -30,6 +28,7 @@ Professor Stephen Turnovsky (committee) : [sturn@uw.edu](mailto:sturn@uw.edu) <b
 Research Field
 ------
 * Housing & Business Cycles
+* Wealth Inequality
 * Macroeconomics
 * Applied Econometrics
 
