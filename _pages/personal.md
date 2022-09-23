@@ -2,7 +2,7 @@
 layout: archive
 title: "Personal"
 permalink: /personal/
-author_profile: false 
+author_profile: true
 ---
 
 
