@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EconRaj.github.io"
+title                    :  "Homepage" #"EconRaj.github.io"
 title_separator          : "-"
 name                     : &name "Rajarshi Datta"
 description              : &description "University of Washington"
