@@ -28,7 +28,7 @@ Professor Stephen Turnovsky (committee) : [sturn@uw.edu](mailto:sturn@uw.edu) <b
 Research Field
 ------
 * Housing, Inequality & Business Cycles
-* Macroeconomics
+* Computational Macroeconomics
 * Time Series Forecasting
 * Applied Econometrics
 
