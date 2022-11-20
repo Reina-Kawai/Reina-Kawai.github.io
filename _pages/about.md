@@ -30,6 +30,8 @@ Research Field
 * Housing & Business Cycles
 * Wealth Inequality
 * Macroeconomics
+* Time Series Forecasting
 * Applied Econometrics
+
 
   
