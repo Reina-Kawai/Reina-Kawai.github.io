@@ -36,12 +36,10 @@ Expenditures](https://Reina-Kawai.github.io/files/Chapter3_Turnovsky_Project_082
 **_Presented at IMF Finance Departmental Seminar on 11/9/2022_**
 > Existing results show that fiscal spending negatively impacts growth in general. However, evidence and reasons as to how the usage of fiscal revenue (additional government borrowings or tax) affects growth are limited since it is exceedingly difficult to identify based on existing models. To address this issue in a general framework, we construct an endogenous growth model based on Bruce and Turnovsky (1999). Analyzing the resulting empirical nuances by applying Bayesian Model Averaging, our stylized results for 180 countries from 1990-2019 reveal that public debt and tax generally hurt growth. On the contrary, infrastructure investment will positively impact economic growth regardless of fiscal origin (i.e., public debt, tax). The estimated response was strictly negated by government consumption expenditure. Our findings suggest that as a policy implication, when governments face a trade-off in supporting current consumption or boosting infrastructure investment, they are encouraged to spend more for the latter since it is forecasted to provide robust increases in economic growth.
 
+* Are IMF Program Recovery Trajectories Achievable?: Systemic Pessimistic Bias of IMF Reserve Forecasts and Possible Causes (with Theo Eicher)**[_Under Review, Complete Draft Available Upon Request_]**
 
 Work in Progress Paper
 ===
-* Are IMF Program Recovery Trajectories Achievable?: Systemic
-Pessimistic Bias of IMF Reserve Forecasts and Possible Causes (with Theo Eicher) **[_First Draft Available Upon Request_]**
-
 * [International Reserve and Cryptocurrencies: Is There Hedging Effect?](https://Reina-Kawai.github.io/files/Crypto_Research_Draft.pdf) (single author)
 
 
