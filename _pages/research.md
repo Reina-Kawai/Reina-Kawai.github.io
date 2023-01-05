@@ -30,7 +30,7 @@ and PSU Seminar_**
 Working Papers
 ===
 
-[Differential Growth Effects of Different Types of Government
+* [Differential Growth Effects of Different Types of Government
 Expenditures](https://Reina-Kawai.github.io/files/Chapter3_Turnovsky_Project_0828.pdf)
 (with Stephen Turnovsky)<br/>
 **_Presented at IMF Finance Departmental Seminar on 11/9/2022_**
