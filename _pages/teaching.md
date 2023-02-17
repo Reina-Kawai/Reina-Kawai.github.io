@@ -4,6 +4,8 @@ title: "Teaching at the University of Washington"
 permalink: /teaching/
 author_profile: true
 ---
+## Foster School of Business MBA Program
+* EMBA 510 (Statistics for Management) *Spr2023*
 
 ## Instructor  
   * ECON 201 (Principles of Macroeconomics)   *Aut2021, Winter2022*  
