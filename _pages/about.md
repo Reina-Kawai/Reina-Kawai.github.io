@@ -20,7 +20,7 @@ Please find my Curriculum Vitae [here](https://rdatta2-code.github.io/files/CV_R
 
 References
 ------
-Professor Yu-Chin Chen (Chair) : [yuchin@uw.edu](mailto:yuchin@uw.edu) <br/>
+Professor Yu-chin Chen (Chair) : [yuchin@uw.edu](mailto:yuchin@uw.edu) <br/>
 Professor Brian Greaney (Chair) : [bg385@uw.edu](mailto:bg385@uw.edu) <br/>
 Professor Fabio Ghironi (committee) : [ghiro@uw.edu](mailto:ghiro@uw.edu) <br/>
 Professor Stephen Turnovsky (committee) : [sturn@uw.edu](mailto:sturn@uw.edu) <br/>
