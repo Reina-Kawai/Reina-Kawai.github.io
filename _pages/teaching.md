@@ -12,5 +12,7 @@ author_profile: true
 
 ## Teach Assistant
   * ECON 201 (Introductory Macroeconomics)   *Win2019, Spr2019, Spr2022, Win2023* 
+  * EMBA 510A (Statistics for Management-Grad Level) *Spr2023*
+  * EMBA 510B (Statistics for Management-Grad Level) *Spr2023*
   
 
