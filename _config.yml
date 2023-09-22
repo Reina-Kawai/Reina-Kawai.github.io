@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage" #"EconReinaKawai.github.io"
+title                    : "Personal Website" #"EconReinaKawai.github.io"
 title_separator          : "-"
 name                     : &name "Reina Kawai"
 description              : &description "World Bank"
