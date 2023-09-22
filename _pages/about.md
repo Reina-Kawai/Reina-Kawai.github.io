@@ -10,7 +10,9 @@ redirect_from:
 
 Welcome! 
 ======
-I am an Economist at the World Bank. I recently received my Ph.D. in Economics at the University of Washington, Seattle. I am an applied macroeconomist with interests primarily in the fields of applied macroeconomics, applied econometrics, forecasting, and growth. My passion is to develop policy implications through a theory-based empirical approach.
+I am an Economist at the World Bank. I received my Ph.D. in Economics from the University of Washington, Seattle in 2023. 
+
+I am an applied macroeconomist with interests primarily in the fields of applied macroeconomics, applied econometrics, forecasting, and growth. My passion is to develop policy implications through a theory-based empirical approach.
 
 
 Curriculum Vitae
