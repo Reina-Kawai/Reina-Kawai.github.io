@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Reina Kawai"
   avatar           : "Website profile photo.jpg"       # "WebsiteDP-ReinaKawai.JPG"
-  bio              : "Ph.D. Candidate in Economics"
+  bio              : "Economist at the World Bank"
   #location         : "Seattle, WA"
-  employer         : "University of Washington"
+  employer         : "Washington DC"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "rkawai7@uw.edu"
+  email            : "rkawai@worldbank.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
