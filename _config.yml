@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Personal Website" #"EconReinaKawai.github.io"
 title_separator          : "-"
-name                     : &name "Reina Kawai"
+name                     : &name "Reina Kawai Eskimez"
 description              : &description "World Bank"
 url                      : https://Reina-Kawai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
