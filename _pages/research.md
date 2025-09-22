@@ -9,8 +9,14 @@ author_profile: true
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Conference in Rome, Italy, 2022
 
 
-Job Market Paper
+Publications
 ===
+
+[Effects of IMF-supported programs on gender inequality](https://www.sciencedirect.com/science/article/pii/S0176268025001004?dgcid=coauthor) <!--[[slides](https://econreinakawai.github.io/files/IMF Nowcasts_slides.pdf)]-->
+(with Theo Eicher and Monique Newiak) <br/>
+**_Forthcoming in the European Journal of Political Economy_**; 
+> Macroeconomic volatility often entails policies that may disproportionately impact vulnerable populations. Some economies address weak economic fundamentals with IMF-supported reform programs, which have been shown to impact gender inequality. To accurately evaluate program effects, however, requires well-matched counterfactuals: How would gender disparities have evolved in the country in the absence of the program? We analyze 125 IMF-supported programs (1994–2022) using custom-tailored control groups that match each IMF-supported program country's gender/economic trends, including fiscal spending, debt, and reserves. For most countries, we cannot reject the null hypothesis that IMF-supported programs have no effect on gender inequality, as the observed gender outcomes were not statistically significantly different from those in controls with similar fiscal spending, debt, and reserves trajectories but no programs.
+
 [IMF trade forecasts for crisis countries: Bias, inefficiency,
 and their origins](https://www.sciencedirect.com/science/article/pii/S0169207022001042?dgcid=coauthor) <!--[[slides](https://econreinakawai.github.io/files/IMF Nowcasts_slides.pdf)]-->
 (with Theo Eicher) <br/>
@@ -18,11 +24,9 @@ and their origins](https://www.sciencedirect.com/science/article/pii/S0169207022
 > External sector surveillance and stabilization are core missions of the International Monetary Fund (IMF). Since 1992, the IMF approved over 600 crisis country loan programs, conditional on reforms and performance targets that are contingent on IMF crisis assessments and recovery forecasts. The literature evaluating IMF crisis forecasts has primarily focused on GDP, inflation, and fiscal budgets, but IMF programs often originate with balance of payments crises. Our evaluation of IMF imports/exports/exchange rates in crisis countries reveals a surprising dichotomy: import forecasts are largely efficient and unbiased, while exports and exchange rate forecasts exhibit substantial biases and inefficiencies. We show forecast errors in the full sample are driven by deeply flawed IMF forecasts for LICs in crisis. Fixed exchange rate LICs (predominantly African franc zone countries) receive systematically inefficient import forecasts. Exchange rate forecasts for LICs with flexible exchange rates are so inefficient, they cannot outperform a naive random walk, and over 30 percent of the forecasts cannot match the exchange rate’s directional movement during the first year of the recovery. Examining the sources of biases and inefficiencies, we highlight effects of conditionality and geopolitics that were not fully accounted for in IMF forecasts, specifically those relating to arrears (domestic and foreign), fiscal finance (balance and credit limits), policy reforms (trade and government), (civil) wars, and elections.
 
 
-Other Publications
-===
 [Systemic Bias of IMF Reserve and Debt Forecasts for Program Countries](https://www.sciencedirect.com/science/article/pii/S0169207023000821?dgcid=coauthor)
 (with Theo Eicher) <br/>
-**_Forthcoming at International Journal of Forecasting_**;
+**_Published in International Journal of Forecasting_**;
 > Countries experiencing balance of payments (BOP) crises may obtain IMF loans to stabilize external accounts. These loans require IMF programs that outline performance targets to ensure forecasted recovery trajectories. Two key indicators of external account performance are reserves and short-term external debt (“STdebt”). Extensive literature evaluates IMF forecasts, but reserves and STdebt have not been studied. We construct a database of nearly 300 BOP crisis countries with IMF BOP programs from 1992–2019. Reserve forecasts are shown to be systematically biased and inefficient, a result that is startlingly persistent across (a) degrees of capital mobility, (b) trade openness, (c) exchange rate regimes, (d) inflation, and (e) country income levels. We show the bias is driven by deeply pessimistic IMF reserve forecasts that underestimate reserves and systematically ignore information known at the time of the forecast. STdebt forecasts are also inefficient but with an optimistic bias, systematically underestimating future debt. If STdebt is used to peg reserve requirements, the optimistic bias of STdebt forecasts may drive the pessimistic bias of reserve forecasts.
 
 
