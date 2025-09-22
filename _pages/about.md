@@ -17,7 +17,7 @@ I am an applied macroeconomist with interests primarily in the fields of applied
 
 Curriculum Vitae
 ------
-Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/cv_Kawai_Reina_latest.pdf).
+Please find my Curriculum Vitae [here](https://Reina-Kawai.github.io/files/cv_RKE_latest.pdf).
 
 
 References
