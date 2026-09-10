@@ -37,14 +37,14 @@ and PSU Seminar_**
 > This paper provides new empirical evidence of the impact of an unanticipated change in public debt on real GDP. Using public debt forecast errors, we identify exogenous changes in public debt to assess the impact of a change in the debt to GDP ratio on real GDP. By analyzing data on gross public debt for 178 countries over 1995-2020, we find that the impact of an unanticipated increase in public debt on the real GDP level is generally negative and varies depending on other fundamental characteristics. Specifically, an unanticipated increase in the public debt to GDP ratio hurts real GDP level for countries that have (i) a high initial debt level or (ii) a rising debt trajectory over the five preceding years. On the contrary, an unanticipated increase in public debt boosts real GDP for countries that have (iii) a low-income level or (iv) completed the HIPC debt relief initiative.
 
 
-[Decomposing Global Fear: Expected Uncertainty, Risk Aversion, and Sovereign Spreads in Emerging Market Economies](https://Reina-Kawai.github.io/files/Eskimez_Vorisek_PDM_Final_Sept.pdf)
-(with Dana Vorisek)<br/>
-**Presented at PDM Conference, University of Washington Seminar**
-> We decompose the square of VIX into expected uncertainty (UC) and risk aversion (RA) following Bekaert, Hoerova, and Lo Duca (2013) and trace their effects on EMBI sovereign spreads of 77 emerging economies over 1993–2024. We find that UC is the central driver of EMBI spread dynamics beyond the short horizons, widening spreads by 28 basis points over 24 months, while the response to RA is comparable in size on impact but shorter-lived and fades to zero beyond six months. State-dependent local projections reveal that UC transmission is amplified substantially in low-reserve and lower-income economies, and at medium horizons in high-debt economies. A country-specific measure of exposure to global bad states, nearly orthogonal to external debt and reserves, is especially informative for short-run risk-aversion transmission: high-exposure sovereigns exhibit larger RA responses over the first few months, a pattern that survives purged cross-fitting and alternative exposure measures. Exposure measures also amplifies UC responses, while the persistent uncertainty channel is additionally shaped by balance-sheet fragility. 
-
-
 Working Papers
 ===
+
+* [Decomposing Global Fear: Expected Uncertainty, Risk Aversion, and Sovereign Spreads in Emerging Market Economies](https://Reina-Kawai.github.io/files/Eskimez_Vorisek_PDM_Final_Sept.pdf)
+(with Dana Vorisek)<br/>
+**Presented at PDM Conference, University of Washington Seminar**
+> We decompose the square of VIX into expected uncertainty (UC) and risk aversion (RA) following Bekaert, Hoerova, and Lo Duca (2013) and trace their effects on EMBI sovereign spreads of 77 emerging economies over 1993–2024. We find that UC is the central driver of EMBI spread dynamics beyond the short horizons, widening spreads by 28 basis points over 24 months, while the response to RA is comparable in size on impact but shorter-lived and fades to zero beyond six months. State-dependent local projections reveal that UC transmission is amplified substantially in low-reserve and lower-income economies, and at medium horizons in high-debt economies. A country-specific measure of exposure to global bad states, nearly orthogonal to external debt and reserves, is especially informative for short-run risk-aversion transmission: high-exposure sovereigns exhibit larger RA responses over the first few months, a pattern that survives purged cross-fitting and alternative exposure measures. Exposure measures also amplifies UC responses, while the persistent uncertainty channel is additionally shaped by balance-sheet fragility.
+
 
 * [Differential Growth Effects of Different Types of Government
 Expenditures](https://Reina-Kawai.github.io/files/Chapter3_Turnovsky_Project_0828.pdf)
