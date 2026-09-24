@@ -35,7 +35,7 @@ and their origins](https://www.sciencedirect.com/science/article/pii/S0169207022
 Working Papers
 ===
 
-* [Public Debt and Real GDP: Revisiting the Impact]([https://www.imf.org/en/Publications/WP/Issues/2022/04/29/Public-Debt-and-Real-GDP-Revisiting-the-Impact-517449](https://www.elibrary.imf.org/view/journals/001/2022/076/article-A001-en.xml)
+* [Public Debt and Real GDP: Revisiting the Impact](https://www.elibrary.imf.org/view/journals/001/2022/076/article-A001-en.xml)
 (with Constance de Soyres and Mengxue Wang)<br/>
 **_R&R at Journal of Development Economics; IMF WP Number: 2022/076; Presented at PDM Conference, IMF FIN Seminar,
 and PSU Seminar_**
