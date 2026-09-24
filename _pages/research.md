@@ -30,15 +30,23 @@ and their origins](https://www.sciencedirect.com/science/article/pii/S0169207022
 > Countries experiencing balance of payments (BOP) crises may obtain IMF loans to stabilize external accounts. These loans require IMF programs that outline performance targets to ensure forecasted recovery trajectories. Two key indicators of external account performance are reserves and short-term external debt (“STdebt”). Extensive literature evaluates IMF forecasts, but reserves and STdebt have not been studied. We construct a database of nearly 300 BOP crisis countries with IMF BOP programs from 1992–2019. Reserve forecasts are shown to be systematically biased and inefficient, a result that is startlingly persistent across (a) degrees of capital mobility, (b) trade openness, (c) exchange rate regimes, (d) inflation, and (e) country income levels. We show the bias is driven by deeply pessimistic IMF reserve forecasts that underestimate reserves and systematically ignore information known at the time of the forecast. STdebt forecasts are also inefficient but with an optimistic bias, systematically underestimating future debt. If STdebt is used to peg reserve requirements, the optimistic bias of STdebt forecasts may drive the pessimistic bias of reserve forecasts.
 
 
-[Public Debt and Real GDP: Revisiting the Impact](https://www.imf.org/en/Publications/WP/Issues/2022/04/29/Public-Debt-and-Real-GDP-Revisiting-the-Impact-517449)
+
+
+Working Papers
+===
+
+* [Public Debt and Real GDP: Revisiting the Impact](https://www.imf.org/en/Publications/WP/Issues/2022/04/29/Public-Debt-and-Real-GDP-Revisiting-the-Impact-517449)
 (with Constance de Soyres and Mengxue Wang)<br/>
 **_R&R at Journal of Development Economics; IMF WP Number: 2022/076; Presented at PDM Conference, IMF FIN Seminar,
 and PSU Seminar_**
 > This paper provides new empirical evidence of the impact of an unanticipated change in public debt on real GDP. Using public debt forecast errors, we identify exogenous changes in public debt to assess the impact of a change in the debt to GDP ratio on real GDP. By analyzing data on gross public debt for 178 countries over 1995-2020, we find that the impact of an unanticipated increase in public debt on the real GDP level is generally negative and varies depending on other fundamental characteristics. Specifically, an unanticipated increase in the public debt to GDP ratio hurts real GDP level for countries that have (i) a high initial debt level or (ii) a rising debt trajectory over the five preceding years. On the contrary, an unanticipated increase in public debt boosts real GDP for countries that have (iii) a low-income level or (iv) completed the HIPC debt relief initiative.
 
 
-Working Papers
-===
+* [Sovereign Risk Repricing after Hidden-Debt Revelations](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099221109222632720)
+(with Jiwon Lee and Franz Ulrich Ruch)<br/>
+**Under Review**
+> Hidden government debt—liabilities that governments incurred but did not fully disclose—can undermine fiscal sustainability. This paper identifies seven hidden-debt revelations during 2005–25 and measures the response of daily sovereign risk spreads following revelations. It finds that sovereign risk spreads rise gradually but persistently in response to a revelation. The pooled sovereign risk spread for the seven countries rises substantially, by 108 basis points on average during the first 30 days after a revelation (with 66 basis points of that in the first 10 days), and an additional 98 basis points during days 31–60. The baseline results are robust to various alternative specifications. Additional exercises show that when debt reconciliation is delayed or contested, sovereign spreads rise roughly 200 basis points more over 60 days than when reconciliation is prompt, although, with only seven episodes, this finding is suggestive.
+
 
 * [Decomposing Global Fear: Expected Uncertainty, Risk Aversion, and Sovereign Spreads in Emerging Market Economies](https://Reina-Kawai.github.io/files/Eskimez_Vorisek_PDM_Final_Sept.pdf)
 (with Dana Vorisek)<br/>
