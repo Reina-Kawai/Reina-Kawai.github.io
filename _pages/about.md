@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! 
+Welcome! I am Reina Kawai Eskimez, an Economist at the World Bank 
 ======
-I am an Economist at the World Bank. I received my Ph.D. in Economics from the University of Washington, Seattle in 2023. 
+I received my Ph.D. in Economics from the University of Washington, Seattle, in 2023, and my B.S. with a double major in Economics and Mathematics from the University of Minnesota Twin Cities. 
 
 I am an applied macroeconomist with interests primarily in the fields of applied macroeconomics, applied econometrics, forecasting, and growth. My passion is to develop policy implications through a theory-based empirical approach.
 
