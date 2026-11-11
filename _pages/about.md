@@ -12,7 +12,7 @@ Welcome! I am Reina Kawai Eskimez, an Economist at the World Bank
 ======
 I received my Ph.D. in Economics from the University of Washington, Seattle, in 2023, and my B.S. with a double major in Economics and Mathematics from the University of Minnesota Twin Cities. 
 
-I am an applied macroeconomist with interests primarily in the fields of applied macroeconomics, applied econometrics, forecasting, and growth. My passion is to draw policy implications through a theory-based empirical approach.
+I am a macroeconomist with interests primarily in the fields of sovereign debt, applied econometrics, forecasting, and growth. My passion is to draw policy implications through a theory-based empirical approach.
 
 
 Curriculum Vitae
@@ -30,7 +30,7 @@ Professor Hiro Ito (committee) : [ito@pdx.edu](mailto:ito@pdx.edu)
 
 Research Field
 ------
-* Applied Macroeconomics
+* Sovereign Debt
 * Applied Econometrics
 * Forecasting
 * Growth
